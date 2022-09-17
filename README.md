@@ -17,26 +17,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/attilamonteiro)
 
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/attilamec/" target="_blank" rel="noopener noreferrer"><img align="left" alt="attilamonteiro | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></a>
-
-[<img align="left" alt="gabriel1991 | Medium" width="22px" src="https://miro.medium.com/fit/c/262/262/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" />](https://medium.com/@attilamonteiro)
-
-[<img align="left" alt="attilamonteiro | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/attilamonteiro/)
-
-[<img align="left" alt="attilamonteiro | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />](https://twitter.com/Atmaload)
-
-<br />
 
 ---
 
