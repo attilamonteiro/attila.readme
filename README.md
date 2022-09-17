@@ -9,9 +9,9 @@
 - 🌱 I’m learning Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
 - 💬 Ask me about anything, I love to talk about a lot of topics, not only programming.
 - ⚡ Fun fact:
-  - :PS4: I love to play PS4.
-  - :jp: I watch too much animes when I have time.
-  - :laughing: I love memes.
+  - 🎮 I love to play games.
+  - 🗾 I watch too much animes when I have time.
+  - 🤣 I love memes.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/attilamonteiro)
@@ -23,6 +23,8 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=attilamonteiro&show_icons=true&theme=dracula&count_private=true)
 
 
 ---
